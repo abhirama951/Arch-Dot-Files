@@ -1,0 +1,12 @@
+general.import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Solarized-Dark.toml"
+]
+
+[window]
+opacity = 1.0
+
+[font]
+size = 8
+
+  [font.normal]
+  family = "JetBrainsMono Nerd Font"
