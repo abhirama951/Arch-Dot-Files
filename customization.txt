@@ -1,0 +1,17 @@
+Softwares to install
+i3wm
+polybar
+rofi
+redshift
+brightnessctl
+alacritty
+yad 
+xdotool
+betterlockscreen
+
+Theme : Arc-Dark
+Icon Theme : Tela-blue-dark
+
+
+Terminal-theme : Solarized
+Starship terminal customization
